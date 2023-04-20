@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>iPortfolio Bootstrap Template - Index</title>
+  <title>Bibliography of Ashish Singh</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
@@ -14,7 +14,9 @@
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+  <link
+    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+    rel="stylesheet">
 
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -45,14 +47,15 @@
     <div class="d-flex flex-column">
 
       <div class="profile">
-        <img src="assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
-        <h1 class="text-light"><a href="index.html">Alex Smith</a></h1>
+        <a href="https://dahiyashish.github.io">
+          <img src="assets/img/profile-img.png" alt="" class="img-fluid rounded-circle"> </a>
+        <h1 class="text-light"><a href="https://dahiyashish.github.io">Ashish Singh</a></h1>
         <div class="social-links mt-3 text-center">
-          <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-          <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-          <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-          <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-          <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+          <a href="https://twitter.com/dahiyashish1" class="twitter"><i class="bx bxl-twitter"></i></a>
+          <a href="https://www.facebook.com/bibliography.of.ashish" class="facebook"><i class="bx bxl-facebook"></i></a>
+          <a href="https://www.instagram.com/dahiyashish" class="instagram"><i class="bx bxl-instagram"></i></a>
+          <a href="https://join.skype.com/invite/eiWTcQHrdc4B" class="google-plus"><i class="bx bxl-skype"></i></a>
+          <a href="https://www.linkedin.com/in/dahiyashish" class="linkedin"><i class="bx bxl-linkedin"></i></a>
         </div>
       </div>
 
@@ -75,8 +78,9 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in">
-      <h1>Alex Smith</h1>
-      <p>I'm <span class="typed" data-typed-items="Designer, Developer, Freelancer, Photographer"></span></p>
+      <h1>Ashish Singh</h1>
+      <p>I'm <span class="typed"
+          data-typed-items="NOC Engineer, DevOps Engineer, Site Reliability Engineer, DevOps Auditor"></span></p>
     </div>
   </section><!-- End Hero -->
 
@@ -88,7 +92,8 @@
 
         <div class="section-title">
           <h2>About</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>A detail-oriented professional with over 3+ years of experience in Automation, Security, Cloud, NOC and
+            other Operations related tasks.</p>
         </div>
 
         <div class="row">
@@ -96,32 +101,33 @@
             <img src="assets/img/profile-img.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-            <h3>UI/UX Designer &amp; Web Developer.</h3>
+            <h3>DevOps &amp; Site Reliability Engineer.</h3>
             <p class="font-italic">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-              magna aliqua.
+              Rich project management experience with expertise in developing project baselines, monitoring &amp;
+              controlling projects with respect to
+              cost, resource deployment, &amp; quality compliance to ensure satisfactory execution
             </p>
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="icofont-rounded-right"></i> <strong>Birthday:</strong> 1 May 1995</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>Website:</strong> www.example.com</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> +123 456 7890</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>City:</strong> City : New York, USA</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Birthday:</strong> 4 June 1994</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Website:</strong> https://dahiyashish.github.io</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> +91 8708 04 8236</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>City:</strong> Rohtak, Haryana</li>
                 </ul>
               </div>
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="icofont-rounded-right"></i> <strong>Age:</strong> 30</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>Degree:</strong> Master</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>PhEmailone:</strong> email@example.com</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Age:</strong> 26</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Degree:</strong> B.Tech</li>
+                  <li><i class="icofont-rounded-right"></i> <strong>Email:</strong> asd.ashishsinghdahiya@gmail.com</li>
                   <li><i class="icofont-rounded-right"></i> <strong>Freelance:</strong> Available</li>
                 </ul>
               </div>
             </div>
             <p>
-              Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-              Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.
+              Knowledge of various tools like
+              Kafka,Zookeeper,Graylog,Mesos,Chronos,Ansible,Spinnaker,Prometheus,Zabix,terraform and many more.
             </p>
           </div>
         </div>
@@ -135,7 +141,8 @@
 
         <div class="section-title">
           <h2>Facts</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>I am working on to create an Incremental change in figures,Hold my hand to step up your ideas with
+            innovations and solutions.</p>
         </div>
 
         <div class="row no-gutters">
@@ -143,16 +150,16 @@
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
             <div class="count-box">
               <i class="icofont-simple-smile"></i>
-              <span data-toggle="counter-up">232</span>
-              <p><strong>Happy Clients</strong> consequuntur quae</p>
+              <span data-toggle="counter-up">11</span>
+              <p><strong>Happy Clients</strong><!-- Metion Something --></p>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="100">
             <div class="count-box">
               <i class="icofont-document-folder"></i>
-              <span data-toggle="counter-up">521</span>
-              <p><strong>Projects</strong> adipisci atque cum quia aut</p>
+              <span data-toggle="counter-up">15</span>
+              <p><strong>Projects</strong> <!-- Metion Something --></p>
             </div>
           </div>
 
@@ -160,7 +167,7 @@
             <div class="count-box">
               <i class="icofont-live-support"></i>
               <span data-toggle="counter-up">1,463</span>
-              <p><strong>Hours Of Support</strong> aut commodi quaerat</p>
+              <p><strong>Hours Of Support</strong> <!-- Metion Something --> </p>
             </div>
           </div>
 
@@ -168,7 +175,7 @@
             <div class="count-box">
               <i class="icofont-users-alt-5"></i>
               <span data-toggle="counter-up">15</span>
-              <p><strong>Hard Workers</strong> rerum asperiores dolor</p>
+              <p><strong>Hard Workers</strong> <!-- Metion Something --></p>
             </div>
           </div>
 
@@ -183,56 +190,118 @@
 
         <div class="section-title">
           <h2>Skills</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>I am very passionate to learn new things and some of them are mentioned below.</p>
         </div>
 
         <div class="row skills-content">
-
+          <!-- ======= Skills Section Row 1 ======= -->
           <div class="col-lg-6" data-aos="fade-up">
 
             <div class="progress">
-              <span class="skill">HTML <i class="val">100%</i></span>
+              <span class="skill">Docker <i class="val">100%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                </div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">CSS <i class="val">90%</i></span>
+              <span class="skill">Kubernetes <i class="val">90%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
+                </div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">JavaScript <i class="val">75%</i></span>
+              <span class="skill">Jenkins <i class="val">75%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
+                </div>
               </div>
             </div>
 
           </div>
-
+          <!-- ======= Skills Section Row 2 ======= -->
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
 
             <div class="progress">
-              <span class="skill">PHP <i class="val">80%</i></span>
+              <span class="skill">Spinnaker <i class="val">80%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
+                </div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">WordPress/CMS <i class="val">90%</i></span>
+              <span class="skill">Kong <i class="val">90%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
+                </div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">Photoshop <i class="val">55%</i></span>
+              <span class="skill">Prometheus <i class="val">75%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100">
+                </div>
+              </div>
+            </div>
+
+          </div>
+          <!-- ======= Skills Section Row 3 ======= -->
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+
+            <div class="progress">
+              <span class="skill">Azure <i class="val">80%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
+                </div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">AWS <i class="val">90%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
+                </div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">GCP <i class="val">75%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
+                </div>
+              </div>
+            </div>
+
+          </div>
+          <!-- ======= Skills Section Row 4 ======= -->
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+
+            <div class="progress">
+              <span class="skill">Grafana <i class="val">80%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
+                </div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">ELK <i class="val">90%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">
+                </div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">Appdynamics <i class="val">75%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
+                </div>
               </div>
             </div>
 
@@ -243,88 +312,163 @@
       </div>
     </section><!-- End Skills Section -->
 
-    <!-- ======= Resume Section ======= -->
+    Human:<!-- ======= Resume Section ======= -->
     <section id="resume" class="resume">
       <div class="container">
-
         <div class="section-title">
           <h2>Resume</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Make your own path and give proper direction to your career is the mantra of my life.</p>
         </div>
-
         <div class="row">
           <div class="col-lg-6" data-aos="fade-up">
-            <h3 class="resume-title">Sumary</h3>
+            <h3 class="resume-title">Summary</h3>
             <div class="resume-item pb-0">
-              <h4>Alex Smith</h4>
-              <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
+              <h4>Ashish Singh</h4>
+              <p><em>A detail-oriented professional with over 5+ years of experience in Automation, Security, Cloud,
+                  NOC, and other Operations related tasks.</em></p>
               <ul>
-                <li>Portland par 127,Orlando, FL</li>
-                <li>(123) 456-7891</li>
-                <li>alice.barkley@example.com</li>
+                <li>115 Block A Suncity, Sector-35 Rohtak, Haryana</li>
+                <li>(+91) 8708 04 8236</li>
+                <li>asd.ashishsinghdahiya@gmail.com</li>
               </ul>
             </div>
-
             <h3 class="resume-title">Education</h3>
             <div class="resume-item">
-              <h4>Master of Fine Arts &amp; Graphic Design</h4>
-              <h5>2015 - 2016</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
+              <h4>BTech in Computer Science</h4>
+              <h5>2013 - 2017</h5>
+              <p><em>Lovely Professional University, Phagwara, Punjab</em></p>
+              <p>College is a turning point in my life, with more responsibilities, learning capabilities, where you
+                learn how to dive in the sky like a new baby bird.</p>
             </div>
             <div class="resume-item">
-              <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-              <h5>2010 - 2014</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p>
+              <h4>12th</h4>
+              <h5>2012 - 2013</h5>
+              <p><em>Vaish Public School, Rohtak, Haryana</em></p>
+              <p>Your life has lots of expectations from you and wants to make proper decisions.</p>
+            </div>
+            <div class="resume-item">
+              <h4>10th</h4>
+              <h5>2009 - 2010</h5>
+              <p><em>Vaish Public School, Rohtak, Haryana</em></p>
+              <p>Your life has lots of expectations from you and wants to make proper decisions.</p>
             </div>
           </div>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <h3 class="resume-title">Professional Experience</h3>
             <div class="resume-item">
-              <h4>Senior graphic design specialist</h4>
-              <h5>2019 - Present</h5>
-              <p><em>Experion, New York, NY </em></p>
+              <h4>Sr. DevOps Engineer</h4>
+              <h5>January 2022 - Present</h5>
+              <p><em>Pluang Technologies Pvt. Ltd., Location</em></p>
               <ul>
-                <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
-                <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
-                <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
-                <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
+                <li>Worked on Cloud Management (AWS, GCP, & Azure).</li>
+                <li>Migrated Prometheus + Graphana monitoring to NewRelic APM+Infrastructure monitoring.</li>
+                <li>Improvised Jenkins implementation to Jenkins as a code, one-click setup.</li>
+                <li>Worked closely with the dev team to change the single module to multi-module with generalized
+                  Dockerfile and Jenkinsfile.</li>
+                <li>Performed R&D and implementation on CISCO MERAKI VPN and Firewall setup.</li>
+                <li>Conducted cost optimization audit on infra cloud.</li>
+                <li>Worked on security auditing on cloud and data transfer between the services.</li>
+                <li>Worked on R&D and Implementation on DefectDojo, SIEM.</li>
+                <li>Migrated all security/firewall tools (horangi, cloudflare, nessus, trufflehog, crowdstrike,
+                  newrelic, guardduty, config change, etc.) and investigation to SIEM and DoJo.</li>
+                <li>Automated alerting to Terraform on NewRelic and custom modules for the cloud.</li>
+                <li>Worked on finding the use case to implement Terragrunt.</li>
+                <li>Participated in audit for ISO Certification, finding lacking systems, and making changes and
+                  migrations as necessary.</li>
+                <li>Conducted audit on IAM all over the organization and decided on strategy and process for request and
+                  approval via ITSM.</li>
               </ul>
             </div>
             <div class="resume-item">
-              <h4>Graphic design specialist</h4>
-              <h5>2017 - 2018</h5>
-              <p><em>Stepping Stone Advertising, New York, NY</em></p>
+              <h4>Sr. DevOps Engineer</h4>
+              <h5>October 2020 - January 2022</h5>
+              <p><em>Truefit Corporation Int. Pvt. Ltd., Location</em></p>
               <ul>
-                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-                <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+                <li>Worked on AWS to GCP migration for the Marketplace project.</li>
+                <li>Set up complete infrastructure on GCP for the Marketplace project from scratch.</li>
+                <li>Worked on CI/CD setup using Jenkins + Gitlab CI/CD tools.</li>
+                <li>Wrote Dockerfile + Kubernetes Yaml file for the Marketplace project.</li>
+                <li>Performed R&D with new tools and tech for the marketplace project automation.</li>
+                <li>Worked on Consul, Jfrog, Helm, Terraform, GKE, VertexAI, FluxCD, Puppet, Ansible, Scaffold, GCP
+                  Services, etc. during this project.</li>
+                <li>Gave an Engineering session to the India team on DevOps different tools.</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>DevOps Engineer L2</h4>
+              <h5>June 2019 - October 2020</h5>
+              <p><em>Srijan Technologies Pvt. Ltd., Delhi</em></p>
+              <ul>
+                <li>Mainly managed Azure Cloud environment on AKS with other services.</li>
+                <li>Migrated shell scripting based on pure groovy-based CI/CD.</li>
+                <li>Managed fast and Incremental deployment through Jenkins, Spinnaker, AquaScan, etc. on clusters.</li>
+                <li>Applied containerized deployment to provide IT solutions - Reliability and accessibility of services
+                  24*7.</li>
+                <li>Automated services and fixed ongoing issues using shell scripting and Python scripting.</li>
+                <li>Supported Drupal Issues to engage and automate more oftenly.</li>
+                <li>Troubleshot & parsed logs into relevant form using syslog, logstash server-based applications.</li>
+                <li>Migrated from ACS to AKS of complete infrastructure with high security and precautions.</li>
+                <li>Implemented Base image based to provide sync setup on dev local machines with Docker Swarm and
+                  Compose.</li>
+                <li>Implemented one service, one container.</li>
+                <li>Scanned the whole infra and fixed vulnerabilities and infrastructure to remove maximum loopholes.
+                </li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>DevOps Engineer</h4>
+              <h5>April 2018 - June 2019</h5>
+              <p><em>Metadesign Solutions Pvt. Ltd., Gurugram</em></p>
+              <ul>
+                <li>Mainly managed Amazon Cloud environment (More than 800 Servers Running)</li>
+                <li>Performed weekly Patching using Ansible cookbooks and AWS RunCommands.</li>
+                <li>Managed fast and Incremental deployment through Jenkins, Ansible, Marathon, etc.</li>
+                <li>Troubleshot cloud server and IT infra issues under SLA.</li>
+                <li>Managed clusters of various automation tools.</li>
+                <li>Implemented containerized deployment to provide IT solutions - Reliability and accessibility of
+                  services 24*7.</li>
+                <li>Prepared daily reports for SLA management.</li>
+                <li>Monitored Samsung infra through - Nagios, Prometheus, Marathon, Mesos, AWS CloudWatch.</li>
+                <li>Automated services and fixed ongoing issues using shell scripting and Python scripting.</li>
+                <li>Troubleshot & parsed logs into relevant form using syslog, logstash, graylog cluster.</li>
+                <li>Created or scaled up or scaled down infra using - AWS, Marathon, Docker, etc.</li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>System Engineer</h4>
+              <h5>May, 2017 - April, 2018</h5>
+              <p><em>Yamaha Solutions Pvt. Ltd., Gurugram</em></p>
+              <ul>
+                <li>Mainly Managing Amazon Cloud environment (More than 800 Servers Running)</li>
+                <li>Weekly Patching using Ansible cookbooks and AWS RunCommands.</li>
+                <li>Managing Rackspace Cloud environment.</li>
+                <li>Responsible for Day-To-Day Server administration and operation tasks.</li>
+                <li>Applications, Web servers (Apache, IIS, Jboss) and AWS cloud service management.</li>
               </ul>
             </div>
           </div>
         </div>
 
       </div>
-    </section><!-- End Resume Section -->
-
+    </section>
+    <!-- End Resume Section -->
+    
     <!-- ======= Portfolio Section ======= -->
     <section id="portfolio" class="portfolio section-bg">
       <div class="container">
 
         <div class="section-title">
           <h2>Portfolio</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>This is how professionally handle my tasks,Please click on individual images to read more on it.</p>
         </div>
 
         <div class="row" data-aos="fade-up">
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
+              <li data-filter=".filter-app">SRIJAN</li>
+              <li data-filter=".filter-card">MDS</li>
+              <li data-filter=".filter-web">YAMAHA</li>
             </ul>
           </div>
         </div>
@@ -335,7 +479,8 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox"
+                  title="App 1"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -345,7 +490,8 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox"
+                  title="Web 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -355,7 +501,8 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox"
+                  title="App 2"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -365,7 +512,8 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" class="venobox" title="Card 2"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/portfolio-4.jpg" data-gall="portfolioGallery" class="venobox"
+                  title="Card 2"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -375,7 +523,8 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-5.jpg" data-gall="portfolioGallery" class="venobox" title="Web 2"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/portfolio-5.jpg" data-gall="portfolioGallery" class="venobox"
+                  title="Web 2"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -385,7 +534,8 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-6.jpg" data-gall="portfolioGallery" class="venobox" title="App 3"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/portfolio-6.jpg" data-gall="portfolioGallery" class="venobox"
+                  title="App 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -395,7 +545,8 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-7.jpg" data-gall="portfolioGallery" class="venobox" title="Card 1"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/portfolio-7.jpg" data-gall="portfolioGallery" class="venobox"
+                  title="Card 1"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -405,7 +556,8 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-8.jpg" data-gall="portfolioGallery" class="venobox" title="Card 3"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/portfolio-8.jpg" data-gall="portfolioGallery" class="venobox"
+                  title="Card 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -415,7 +567,8 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/portfolio-9.jpg" data-gall="portfolioGallery" class="venobox"
+                  title="Web 3"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -432,39 +585,47 @@
 
         <div class="section-title">
           <h2>Services</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint
+            consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit
+            in iste officiis commodi quidem hic quas.</p>
         </div>
 
         <div class="row">
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up">
             <div class="icon"><i class="icofont-computer"></i></div>
             <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-            <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+            <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint
+              occaecati cupiditate non provident</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
             <div class="icon"><i class="icofont-chart-bar-graph"></i></div>
             <h4 class="title"><a href="">Dolor Sitema</a></h4>
-            <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+            <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+              consequat tarad limino ata</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
             <div class="icon"><i class="icofont-earth"></i></div>
             <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-            <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+            <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+              fugiat nulla pariatur</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
             <div class="icon"><i class="icofont-image"></i></div>
             <h4 class="title"><a href="">Magni Dolores</a></h4>
-            <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+            <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+              mollit anim id est laborum</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
             <div class="icon"><i class="icofont-settings"></i></div>
             <h4 class="title"><a href="">Nemo Enim</a></h4>
-            <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+            <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium
+              voluptatum deleniti atque</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500">
             <div class="icon"><i class="icofont-tasks-alt"></i></div>
             <h4 class="title"><a href="">Eiusmod Tempor</a></h4>
-            <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+            <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum
+              soluta nobis est eligendi</p>
           </div>
         </div>
 
@@ -477,7 +638,9 @@
 
         <div class="section-title">
           <h2>Testimonials</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint
+            consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit
+            in iste officiis commodi quidem hic quas.</p>
         </div>
 
         <div class="owl-carousel testimonials-carousel">
@@ -485,7 +648,8 @@
           <div class="testimonial-item" data-aos="fade-up">
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+              Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium
+              quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
             <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
@@ -496,7 +660,8 @@
           <div class="testimonial-item" data-aos="fade-up" data-aos-delay="100">
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+              Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis
+              quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
             <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
@@ -507,7 +672,8 @@
           <div class="testimonial-item" data-aos="fade-up" data-aos-delay="200">
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+              Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor
+              labore quem eram duis noster aute amet eram fore quis sint minim.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
             <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
@@ -518,7 +684,8 @@
           <div class="testimonial-item" data-aos="fade-up" data-aos-delay="300">
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+              Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim
+              dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
             <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
@@ -529,7 +696,8 @@
           <div class="testimonial-item" data-aos="fade-up" data-aos-delay="400">
             <p>
               <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-              Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+              Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa
+              labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
               <i class="bx bxs-quote-alt-right quote-icon-right"></i>
             </p>
             <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
@@ -548,7 +716,7 @@
 
         <div class="section-title">
           <h2>Contact</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Feel free to contact me via below details</p>
         </div>
 
         <div class="row" data-aos="fade-in">
@@ -558,22 +726,23 @@
               <div class="address">
                 <i class="icofont-google-map"></i>
                 <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <p>A115 Block A Sector-35, Suncity, Rohtak, Haryana </p>
               </div>
 
               <div class="email">
                 <i class="icofont-envelope"></i>
                 <h4>Email:</h4>
-                <p>info@example.com</p>
+                <p>asd.ashishsinghdahiya@gmail.com</p>
               </div>
 
               <div class="phone">
                 <i class="icofont-phone"></i>
                 <h4>Call:</h4>
-                <p>+1 5589 55488 55s</p>
+                <p>+91 8708 04 8236</p>
               </div>
-
-              <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m21!1m12!1m3!1d1716.848774626879!2d76.62726575860333!3d28.91038430830353!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m6!3e0!4m0!4m3!3m2!1d28.909559299999998!2d76.62984639999999!5e0!3m2!1sen!2sin!4v1595599839625!5m2!1sen!2sin"
+                frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
             </div>
 
           </div>
@@ -583,23 +752,27 @@
               <div class="form-row">
                 <div class="form-group col-md-6">
                   <label for="name">Your Name</label>
-                  <input type="text" name="name" class="form-control" id="name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                  <input type="text" name="name" class="form-control" id="name" data-rule="minlen:4"
+                    data-msg="Please enter at least 4 chars" />
                   <div class="validate"></div>
                 </div>
                 <div class="form-group col-md-6">
                   <label for="name">Your Email</label>
-                  <input type="email" class="form-control" name="email" id="email" data-rule="email" data-msg="Please enter a valid email" />
+                  <input type="email" class="form-control" name="email" id="email" data-rule="email"
+                    data-msg="Please enter a valid email" />
                   <div class="validate"></div>
                 </div>
               </div>
               <div class="form-group">
                 <label for="name">Subject</label>
-                <input type="text" class="form-control" name="subject" id="subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                <input type="text" class="form-control" name="subject" id="subject" data-rule="minlen:4"
+                  data-msg="Please enter at least 8 chars of subject" />
                 <div class="validate"></div>
               </div>
               <div class="form-group">
                 <label for="name">Message</label>
-                <textarea class="form-control" name="message" rows="10" data-rule="required" data-msg="Please write something for us"></textarea>
+                <textarea class="form-control" name="message" rows="10" data-rule="required"
+                  data-msg="Please write something for us"></textarea>
                 <div class="validate"></div>
               </div>
               <div class="mb-3">
@@ -622,14 +795,14 @@
   <footer id="footer">
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>iPortfolio</span></strong>
+        &copy; Copyright <strong><span>Ashish Singh</span></strong>
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        Designed by <a href="https://dahiyashish.github.io/">dahiyashish</a>
       </div>
     </div>
   </footer><!-- End  Footer -->
